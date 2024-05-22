@@ -25,4 +25,4 @@ for (let i = 0; i < inventory.length; i++) {
 console.log(totalPrice);
 ans = "มูลค่ารวมของจำนวนสินค้าทั้งหมดในสต็อก " + totalPrice + " บาท";
 console.log(ans);
-// ^ and 3
+// ^ ans 3
